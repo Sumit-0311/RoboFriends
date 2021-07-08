@@ -1,6 +1,5 @@
-##RoboFriends
-
-<h2> A Basic App to learn the Ins and Outs of React. </h2>
+<h1>RoboFriends </h1>
+<h3> A Basic App to learn the Ins and Outs of React. </h3>
 
 ### To Get Started
 
@@ -21,5 +20,3 @@ npm install
 ```
 npm start
 ```
-
-`npm audit fix`
